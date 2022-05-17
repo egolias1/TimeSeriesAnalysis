@@ -1,6 +1,5 @@
-\contentsline {section}{\numberline {1}Some examples and best-practices}{1}{section.1}%
-\contentsline {section}{\numberline {2}Introduction to Time Series}{2}{section.2}%
-\contentsline {subsubsection}{\numberline {2.0.1}Sub-sections}{2}{subsubsection.2.0.1}%
-\contentsline {paragraph}{Up to paragraphs.}{2}{section*.2}%
-\contentsline {section}{\numberline {A}Some title}{2}{appendix.A}%
-\contentsline {paragraph}{Note added.}{2}{section*.4}%
+\contentsline {section}{\numberline {1}Introduction to Time Series}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Random Walks}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Autoregressive Models}{1}{subsubsection.1.1.1}%
+\contentsline {section}{\numberline {2}Moving Average Models}{1}{section.2}%
+\contentsline {section}{\numberline {3}Autoregressive Moving Average Models}{1}{section.3}%

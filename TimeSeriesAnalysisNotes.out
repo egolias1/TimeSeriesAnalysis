@@ -1,4 +1,5 @@
-\BOOKMARK [1][-]{section.1}{Some examples and best-practices}{}% 1
-\BOOKMARK [1][-]{section.2}{Introduction to Time Series}{}% 2
-\BOOKMARK [2][-]{subsubsection.2.0.1}{Sub-sections}{section.2}% 3
-\BOOKMARK [1][-]{appendix.A}{Some title}{}% 4
+\BOOKMARK [1][-]{section.1}{Introduction to Time Series}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Random Walks}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Autoregressive Models}{subsection.1.1}% 3
+\BOOKMARK [1][-]{section.2}{Moving Average Models}{}% 4
+\BOOKMARK [1][-]{section.3}{Autoregressive Moving Average Models}{}% 5
